@@ -2,16 +2,16 @@
 
 one:
   name: MyString
-  duration: 
-  year: 
+  duration: 1
+  year: 1
   rating: MyString
   description: MyString
   image_url: MyString
 
 two:
   name: MyString
-  duration: 
-  year: 
+  duration: 1
+  year: 1
   rating: MyString
   description: MyString
   image_url: MyString
